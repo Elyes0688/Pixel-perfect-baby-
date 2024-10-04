@@ -1,0 +1,7 @@
+.container {
+    background-color:  #f3f3f3; /* Gris clair, correspond au light gray */
+    max-width: 1440px; /* Largeur maximale, vous pouvez ajuster cette valeur */
+    margin: 0 auto; /* Centre le container horizontalement */
+    padding: 20px; /* Ajoute un espace intérieur (padding), ajustez la valeur si nécessaire */
+    box-sizing: border-box; /* Inclut le padding et la bordure dans la largeur totale de l'élément */
+}
